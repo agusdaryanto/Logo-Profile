@@ -1,0 +1,38 @@
+{
+  "name": "Profile Agus Daryanto",
+  "short_name": "Profile Agus Daryanto",
+  "start_url": "https://profile.agusdaryanto.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#fff",
+  "description": "Blog yang memberikan informasi Profile Agus Daryanto.",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-1_Czi2Qp4Ic/Xt-aiFBy6CI/AAAAAAAADxg/zxupDNOLEg4Q4c11YWowxKF7nTRQB5gmQCLcBGAsYHQ/s48/Agus.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-1_Czi2Qp4Ic/Xt-aiFBy6CI/AAAAAAAADxg/zxupDNOLEg4Q4c11YWowxKF7nTRQB5gmQCLcBGAsYHQ/s72/Agus.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-1_Czi2Qp4Ic/Xt-aiFBy6CI/AAAAAAAADxg/zxupDNOLEg4Q4c11YWowxKF7nTRQB5gmQCLcBGAsYHQ/s96/Agus.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-1_Czi2Qp4Ic/Xt-aiFBy6CI/AAAAAAAADxg/zxupDNOLEg4Q4c11YWowxKF7nTRQB5gmQCLcBGAsYHQ/s144/Agus.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-1_Czi2Qp4Ic/Xt-aiFBy6CI/AAAAAAAADxg/zxupDNOLEg4Q4c11YWowxKF7nTRQB5gmQCLcBGAsYHQ/s168/Agus.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-1_Czi2Qp4Ic/Xt-aiFBy6CI/AAAAAAAADxg/zxupDNOLEg4Q4c11YWowxKF7nTRQB5gmQCLcBGAsYHQ/s192/Agus.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-1_Czi2Qp4Ic/Xt-aiFBy6CI/AAAAAAAADxg/zxupDNOLEg4Q4c11YWowxKF7nTRQB5gmQCLcBGAsYHQ/s512/Agus.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
